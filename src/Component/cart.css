@@ -1,0 +1,14 @@
+.Container-view{
+    position:absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    opacity: 0.9;
+    background-color:darkgrey;
+}
+.float-btn{
+    position: absolute;
+    right: 40px;
+    top: 50px;
+}
